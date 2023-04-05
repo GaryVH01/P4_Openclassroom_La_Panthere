@@ -122,10 +122,6 @@ a:hover {
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
-.d-bloc a .icon-sm,
-.d-bloc a .icon-md,
-.d-bloc a .icon-lg,
-.d-bloc a .icon-xl,
 .d-bloc h1 a,
 .d-bloc h2 a,
 .d-bloc h3 a,
@@ -134,6 +130,13 @@ a:hover {
 .d-bloc h6 a,
 .d-bloc p a {
     color: #797676;
+}
+
+.d-bloc a .icon-sm,
+.d-bloc a .icon-md,
+.d-bloc a .icon-lg,
+.d-bloc a .icon-xl{
+    color: white;
 }
 
 .d-bloc .a-btn:hover,
@@ -476,7 +479,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 38px!important;
 }
 
 .icon-lg {
