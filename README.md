@@ -11,9 +11,9 @@ Ressources :
 
 Résultats d'optimisation du site : 
 
-AVANT / APRES
-Performance :    73% / 95%
-Accessibilité:   83% / 100%
-SEO:             78% / 100%
+AVANT / APRES :
+* Performance :    73% / 95%
+* Accessibilité:   83% / 100%
+* SEO:             78% / 100%
 
 
